@@ -1,0 +1,10 @@
+{
+    "name": "dragonbones",
+    "dependence": ["core"],
+    "output":"core/extension/dragonbones",
+    "source":"src/extension/dragonbones",
+    "file_list": [
+        "dragonBones.ts",
+        "DragonBonesEgretBridge.ts"
+    ]
+}

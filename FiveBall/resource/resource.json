@@ -1,0 +1,13 @@
+{
+"resources":
+	[
+		{"name":"pngBtn","type":"image","url":"assets/pngBtn.png"},
+        {"name":"Box","type":"image","url":"assets/Box.png"},
+        {"name":"Balls","type":"sheet","url":"assets/Balls.json"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"pngBtn, Box, Balls"}
+	]
+}
