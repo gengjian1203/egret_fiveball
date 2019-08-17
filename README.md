@@ -7,8 +7,8 @@ Current Version: v1.1.0
 简介
 -------------------
 
-Egret Engine是一款使用JavaScript(TypeScript)编写的HTML5开源免费游戏引擎。Egret 引擎的核心定位是开放，高效，优雅。基于它，你可以快速轻松地构建HTML5移动游戏或原生游戏。
-
+Egret Engine是一款使用JavaScript(TypeScript)编写的HTML5开源免费游戏引擎。Egret 引擎的核心定位是开放，高效，优雅。基于它，你可以快速轻松地构建HTML5移动游戏或原生游戏。  
+点击 [这里](http://gengjian1203.github.io/egret_fiveball/FiveBall/launcher/index.html) 可以进行试玩。
 
 支持平台
 --------------------
